@@ -8,4 +8,3 @@
 6. A imagem deve ser um campo opcional 
 7. Podes usar as bibliotecas que quiseres para implementar o exercício 
 8. (OPCIONAL) Implementar a experiência também em mobile
-9. Enviar solução numa pasta zip (excluir node_modules)
